@@ -1,14 +1,14 @@
-layout_spectrum: 0.6503499327227473
-typography_spectrum: 0.9352869943249971
+layout_spectrum: 0.6390003657434136
+typography_spectrum: 0.13778064772486687
 color:
-  brandStrength: 0.1369810295291245
-  lightness: 0.9733503751922399
-  saturation: 0.4100935177411884
-  rhythmicContrast: 0.009392330422997475
+  brandStrength: 0.19786855159327388
+  lightness: 0.4666460563894361
+  saturation: 0.6509384464006871
+  rhythmicContrast: 0.30041451030410826
   brandColors:
-    - '#2F2933'
-    - '#01A2A6'
-    - '#29D9C2'
-    - '#BDF271'
-    - '#FFFFA6'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: Tanya Raymond Nutritionist
