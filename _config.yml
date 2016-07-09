@@ -1,5 +1,6 @@
-layout_spectrum: 0.6390003657434136
 typography_spectrum: 0.13778064772486687
+content_rating:
+  adult: false
 color:
   brandStrength: 0.19786855159327388
   lightness: 0.4666460563894361
@@ -11,5 +12,6 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.6390003657434136
 name: Tanya Raymond Nutritionist
 title: Eat for the Life you Love!
